@@ -4,7 +4,7 @@
 
 ## 🎓 Educational background
 
-- ** Applied mathematics Master’s degree @ [EPFL](https://www.epfl.ch/en/)** 
+- **Applied mathematics Master’s degree @ [EPFL](https://www.epfl.ch/en/)** 
 
     - *Information theory - Statistics - Algorithms and optimisation – Cryptography*
     - *minor in Quantum Sciences and Engineering*
