@@ -1,18 +1,15 @@
-# 👋 Hi there 👋 I am Arnaud Guibbert
+# 👋 Hi there 👋 I am Paul Bagourd
 
 
 
 ## 🎓 Educational background
 
-- **Microengeenering/Data Science Master’s degree @ [EPFL](https://www.epfl.ch/en/)** 
+- ** Applied mathematics Master’s degree @ [EPFL](https://www.epfl.ch/en/)** 
 
-    - *Machine Learning - Applied Data Analysis - Optimization - Signal Processing - Computer Vision - Model predictive control*
+    - *Information theory - Statistics - Algorithms and optimisation – Cryptography*
+    - *minor in Quantum Sciences and Engineering*
 
-- **Engineering student @ [Centrale Supélec](https://www.centralesupelec.fr/)** 
-
-    - *Probability theory - Fluid Mechanics - Optimization - Automation - Electronic systems*
-
-- **French "Classes preparatoires" @ [Lycee du Parc](https://lyceeduparc.fr/ldp/)** 
+- **Bachelor student in mathematics @ [EPFL](https://www.epfl.ch/en/)** 
 
 
 ## 💼 Experience
